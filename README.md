@@ -1,29 +1,30 @@
-# Super App Mobile#
+# Super App Mobile
 Descripcion de la aplicacion, en un texto largo que explique el proposito de la aplicacion.
 
-#Funcionalidades#
+#Funcionalidades
 
 - Funcionalidad 1
 - Funcionalidad 2
 - Funcionalidad 3
 
-#Diseño de la Arquitectura#
+#Diseño de la Arquitectura
 Explicacion de la arquitectura
-##Diagrama de clases##
+
+#Diagrama de clases
 
 ![Descripcion de la imagen](img/diagrama.png)
 
-##Diagrama de interaccion##
+#Diagrama de interaccion##
 
 ![Descripcion de la imagen](img/diagrama.png)
 
-#Diagram de Pantalla#
+#Diagram de Pantalla
 
-##Pantalla de Inicio##
+#Pantalla de Inicio#
 
-##Formulario de Busqueda##
+#Formulario de Busqueda
 
-#Herramientas y Librerias##
+#Herramientas y Librerias
 - Herramienta [Enlace](http://)
 - Herramienta [Enlace](http://)
 
