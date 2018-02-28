@@ -9,6 +9,12 @@ Descripcion de la aplicacion, en un texto largo que explique el proposito de la 
 - Funcionalidad 2
 - Funcionalidad 3
 
+# Analisis Persona #
+## Imagen ##
+## Descripcion ##
+## Necesidades ##
+## Soluciones ##
+
 # Diseño de la Arquitectura
 Explicacion de la arquitectura
 
